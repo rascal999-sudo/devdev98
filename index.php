@@ -1,6 +1,6 @@
 <?>PHP
 
-$access_token = 'IAF4RcKrv6IKRnYvXAyBR9XhXerm/rWSEtp90M7u2lriQ48H8ZEWfUcurIOeOoT6cUIMdjDEnG1yu5z8Oz652B9RBz+5AV/y1Si0hQWYh/JXAEq5HGSkqT9Q5WxAMGjPmIvSdRSRPcUlGnLUq0JsdwdB04t89/1O/w1cDnyilFU=';
+$access_token = '<IAF4RcKrv6IKRnYvXAyBR9XhXerm/rWSEtp90M7u2lriQ48H8ZEWfUcurIOeOoT6cUIMdjDEnG1yu5z8Oz652B9RBz+5AV/y1Si0hQWYh/JXAEq5HGSkqT9Q5WxAMGjPmIvSdRSRPcUlGnLUq0JsdwdB04t89/1O/w1cDnyilFU=>';
 
 $post_data['messages'][] = array(
   'type' => 'text',
